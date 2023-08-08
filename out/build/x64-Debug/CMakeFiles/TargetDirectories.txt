@@ -1,0 +1,9 @@
+C:/Users/User/source/repos/cppl4(2)/out/build/x64-Debug/CMakeFiles/MyProjectTest2.dir
+C:/Users/User/source/repos/cppl4(2)/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/User/source/repos/cppl4(2)/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/source/repos/cppl4(2)/out/build/x64-Debug/Catch2-build/CMakeFiles/edit_cache.dir
+C:/Users/User/source/repos/cppl4(2)/out/build/x64-Debug/Catch2-build/CMakeFiles/rebuild_cache.dir
+C:/Users/User/source/repos/cppl4(2)/out/build/x64-Debug/Catch2-build/src/CMakeFiles/Catch2.dir
+C:/Users/User/source/repos/cppl4(2)/out/build/x64-Debug/Catch2-build/src/CMakeFiles/Catch2WithMain.dir
+C:/Users/User/source/repos/cppl4(2)/out/build/x64-Debug/Catch2-build/src/CMakeFiles/edit_cache.dir
+C:/Users/User/source/repos/cppl4(2)/out/build/x64-Debug/Catch2-build/src/CMakeFiles/rebuild_cache.dir
